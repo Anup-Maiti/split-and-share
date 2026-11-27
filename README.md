@@ -1,21 +1,138 @@
-<<<<<<< HEAD
-# React + Vite
+# Split & Share
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Smart Expense Splitting & Sharing Made Simple.
 
-Currently, two official plugins are available:
+A modern and user-friendly expense-sharing web application built with React.js. Designed to simplify shared expenses, organize group spending, and make cost management easier.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📌 Project Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Managing shared expenses with friends, family, or groups can sometimes be complicated.
 
-## Expanding the ESLint configuration
+**Split & Share** aims to make this process easier by providing a simple platform for managing shared expenses and organizing payments efficiently.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# split-and-share
-A simple and smart expense splitting and sharing application built with React.
->>>>>>> 1853e2110205aa0c152e851518a8a5a64e7c346b
+The project is developed using modern frontend technologies with a focus on simplicity, usability, and clean design.
+
+## ✨ Features
+
+- Easy-to-use user interface
+- Shared expense management
+- Expense splitting functionality
+- Simple expense tracking
+- Organized project structure
+- Responsive design
+
+## 🛠️ Technologies Used
+
+| Technology | Description |
+|---|---|
+| React.js | Frontend Library |
+| Vite | Build Tool |
+| JavaScript | Programming Language |
+| HTML5 | Web Structure |
+| CSS3 | Styling |
+| ESLint | Code Quality |
+
+## 📁 Project Structure
+
+```text
+split-and-share/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   └── components/
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── eslint.config.js
+└── README.md
+```
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+Make sure you have installed:
+
+- Node.js
+- npm
+- Git
+- Visual Studio Code
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Anup-Maiti/split-and-share.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd split-and-share
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+```bash
+npm run dev
+```
+
+### 5. Open in Browser
+
+Open the local URL displayed in your terminal to view the application.
+
+## 📜 Available Scripts
+
+| Command | Description |
+|---|---|
+| `npm install` | Install project dependencies |
+| `npm run dev` | Start development server |
+| `npm run build` | Create production build |
+| `npm run preview` | Preview production build |
+| `npm run lint` | Check code quality |
+
+## 🎯 Project Goals
+
+- Simplify expense-sharing activities.
+- Improve expense organization.
+- Provide a user-friendly experience.
+- Practice modern React development.
+
+## 👨‍💻 Developer
+
+**Anup Maiti**
+
+*BCA Student | Aspiring Software Developer*
+
+- GitHub: [@Anup-Maiti](https://github.com/Anup-Maiti)
+- Email: [anupmaiti0606@gmail.com](mailto:anupmaiti0606@gmail.com)
+- Repository: [Split & Share](https://github.com/Anup-Maiti/split-and-share)
+
+## 🙏 Acknowledgements
+
+Special thanks to the original project developer for sharing the project and making this learning experience possible.
+
+## 📄 License
+
+This project is created for educational and learning purposes. Reuse and distribution should follow the original developer's permission and applicable licensing terms.
+
+---
+
+<p align="center">
+  <b>Built with dedication by Anup Maiti</b>
+</p>
+
+<p align="center">
+  ⭐ If you find this project interesting, consider giving it a star!
+</p>
